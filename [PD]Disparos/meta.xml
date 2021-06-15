@@ -1,0 +1,6 @@
+<meta>
+    <info author="Dark" version="1.0." name="Dark, disparos" description="Crear un blip, cada vez que se dispares 30 segundos" type="script" />
+    <script src="disparos.lua" type="server" />    
+     
+</meta>
+
